@@ -1,5 +1,6 @@
-# phan-mem-quan-ly-toa-nha-chung-cu-neohome
-Phần mềm quản lý toà nhà thông minh neohome
+# Phần mềm quản lý toà nhà thông minh neohome
+
+<img src="https://neohome.vn/images/functions.png" alt="Alt text" title="Optional title">
 
 # Chức năng:
 - Quản lý cư dân
@@ -12,6 +13,6 @@ Phần mềm quản lý toà nhà thông minh neohome
 - Tích hợp thiết bị IoT
 
 # Liên hệ: 
-Website: https://www.neohome.vn
-Email: info@neohome.vn
-Hotline: 08 7988 3139
+- Website: https://www.neohome.vn
+- Email: info@neohome.vn
+- Hotline: 08 7988 3139
