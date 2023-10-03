@@ -13,14 +13,15 @@
 - Tích hợp thiết bị IoT
 
 # Liên hệ: 
-- Website: https://www.neohome.vn
+- Website: [neohome](https://www.neohome.vn)
 - Email: info@neohome.vn
 - Hotline: 08 7988 3139
 
 Tham khảo thêm: 
 
-- https://www.neohome.vn/bai-viet/loi-ich-cua-cham-cong-va-ap-dung-kpi-voi-phan-mem-neohome-trong-quan-ly-van-hanh-toa-nha
-- https://www.neohome.vn/bai-viet/phan-mem-giam-sat-xe-buyt-qua-the-tu-qr-code-voi-neohome
-- https://www.neolock.vn
-- https://www.khoatukhachsan.vn
-- https://www.neolock.com.vn
+- [Phần mềm chấm công qua app qrcode](https://www.neohome.vn/bai-viet/loi-ich-cua-cham-cong-va-ap-dung-kpi-voi-phan-mem-neohome-trong-quan-ly-van-hanh-toa-nha)
+- [Phần mềm giá sát xe buýt](https://www.neohome.vn/bai-viet/phan-mem-giam-sat-xe-buyt-qua-the-tu-qr-code-voi-neohome)
+- [công ty phát triển phần mềm BanTaySo](https://www.bantaysp.com)
+- [phần mềm quản lý tòa nhà chung cư](https://www.neohome.vn)
+- [khóa từ khách sạn giá rẻ](https://www.khoatukhachsan.com)
+- [khóa vân tay neolock](https://www.neolock.com.vn)
